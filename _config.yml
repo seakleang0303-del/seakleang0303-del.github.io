@@ -13,18 +13,18 @@
 title: Seakleang Hor
 
 # Your name to show in the footer
-author: Me
+author: Seakleang
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "learn more about me"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://seakleang.com"
 
 ################
 # --- Logo --- #
@@ -50,14 +50,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "seakleang0303@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Seakleang Hor
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  youtube: "MinJooN Gaming"
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -66,11 +62,11 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +821097683329
+telephone: +821097683329
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+telegram: JooN
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
@@ -86,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: You can learn how to create more beautiful themes by yourself
 
 ###########################
 # --- General options --- #
@@ -102,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "Seakleang.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -212,7 +208,7 @@ footer-hover-col: "#0085A1"
 #utterances:
 #  repository: # GitHub username/repository eg. "daattali/beautiful-jekyll"
 #  issue-term: title   # Mapping between blog posts and GitHub issues
-#  theme: github-light # Utterances theme
+theme: github-light # Utterances theme
 #  label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
@@ -243,7 +239,7 @@ footer-hover-col: "#0085A1"
 #  mapping: pathname
 #  reactions-enabled: 1
 #  emit-metadata: 0
-#  theme: light
+theme: light
 
 ################
 # --- Misc --- #
@@ -260,10 +256,10 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Busan/South Korea"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:year2025-:month-11:day-03:title/
 paginate: 5
 
 kramdown:
